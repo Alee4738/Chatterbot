@@ -1,5 +1,6 @@
 # Chatterbot
 Author: Andrew Lee
+
 Connect two computers with a crossover cable or have the computers be able to access each other through a common network, and chat.
 
 # Usage: 
